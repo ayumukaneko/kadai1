@@ -9,9 +9,9 @@ This repository is licensed under the GPLv3 license, see LICENSE.
 0を入力すると全て消灯
 
 ## 操作方法
-$ make                        
-$ sudo insmod myled.ko      
-$ sudo chmod 666 /dev/myled0
-$ echo [0∼2] > /dev/myled0
+　$ make                        
+　$ sudo insmod myled.ko      
+　$ sudo chmod 666 /dev/myled0
+　$ echo [0∼2] > /dev/myled0
 
 ## YouTube
