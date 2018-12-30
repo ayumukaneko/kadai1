@@ -13,5 +13,5 @@ This repository is licensed under the GPLv3 license, see LICENSE.
     $ sudo insmod myled.ko  
     $ sudo chmod 666 /dev/myled0  
     $ echo [0∼2] > /dev/myled0  
-　　
+
 ## YouTube
