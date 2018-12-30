@@ -5,7 +5,7 @@
 This repository is licensed under the GPLv3 license, see LICENSE.
 
 ## 概要
-与えた入力の数字と同じ数のLEDが点灯するデバイスドライバ（2まで）です。  
+与えた入力の数字と同じ数(2まで)のLEDが点灯します。  
 0を入力すると全て消灯します。  
 
 ## 操作方法
@@ -14,5 +14,5 @@ This repository is licensed under the GPLv3 license, see LICENSE.
     $ sudo chmod 666 /dev/myled0  
     $ echo [0∼2] > /dev/myled0  
 
-## YouTube
+## 動画URL(YouTube)
 https://youtu.be/yLTzx_TwoPQ
